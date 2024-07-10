@@ -1,0 +1,2 @@
+FROM kubesphere/ks-installer:v3.3.2
+MAINTAINER wendy512@yeah.net
