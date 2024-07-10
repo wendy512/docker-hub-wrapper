@@ -1,2 +1,2 @@
-FROM kubesphere/ks-installer:v3.3.2
+FROM kubesphere/ks-installer:v3.3.2@sha256:2c25ff5f9fbd42690a291ba74d5250fa5388f8f8c4c94f0214e042b1e7ba5562
 MAINTAINER wendy512@yeah.net
